@@ -1,1 +1,2 @@
 # Python Simulator for Assembly Language
+This project is written in python to read the 8 bit assembly intruction. Currently, this python simulator supports init, store, square, drop middle, and, or, srl, load, add, addi, bni, average, set and exit instructions. Above python file contains the python simulator that reads the assembly language. And the folder, "Test cases with output" contains some of the test cases that were tested with the python file with the correct output.
