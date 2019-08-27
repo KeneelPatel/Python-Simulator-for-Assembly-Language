@@ -1,0 +1,35 @@
+Enter the name of the file with the extention .txt : PRPG.txt
+1: Debug Mode
+0: Normal Mode : 1
+==============Register Values=====================
+reg[0] = 1
+reg[1] = 1
+reg[2] = 48
+reg[3] = 1
+reg[4] = 0
+reg[5] = 0
+reg[6] = 0
+reg[7] = 0
+==============Memory Values=======================
+mem[0] = 0    mem[1] = 0    mem[2] = 0
+mem[3] = 0    mem[4] = 0    mem[5] = 0
+mem[6] = 0    mem[7] = 0    mem[8] = 79
+mem[9] = 17    mem[10] = 1    mem[11] = 1
+mem[12] = 1    mem[13] = 1    mem[14] = 1
+mem[15] = 1    mem[16] = 1    mem[17] = 1
+mem[18] = 1    mem[19] = 1    mem[20] = 1
+mem[21] = 1    mem[22] = 1    mem[23] = 1
+mem[24] = 6    mem[25] = 0    mem[26] = 0
+mem[27] = 0    mem[28] = 0    mem[29] = 0
+mem[30] = 0    mem[31] = 0    mem[32] = 5
+mem[33] = 2    mem[34] = 1    mem[35] = 1
+mem[36] = 1    mem[37] = 1    mem[38] = 1
+mem[39] = 1    mem[40] = 1    mem[41] = 1
+mem[42] = 1    mem[43] = 1    mem[44] = 1
+mem[45] = 1    mem[46] = 1    mem[47] = 1
+mem[48] = 1    mem[49] = 0    mem[50] = 0
+==============Genral Output=======================
+Instruction count(IC) : 1065
+Program count(PC) : 225
+Branch instruction count : 160
+Memory instruction count : 82
